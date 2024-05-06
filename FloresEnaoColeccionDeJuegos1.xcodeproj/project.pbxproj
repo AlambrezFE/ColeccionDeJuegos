@@ -14,6 +14,7 @@
 		952A8AD82BE95D8900FCD796 /* FloresEnaoColeccionDeJuegos1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 952A8AD62BE95D8900FCD796 /* FloresEnaoColeccionDeJuegos1.xcdatamodeld */; };
 		952A8ADA2BE95D8B00FCD796 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 952A8AD92BE95D8B00FCD796 /* Assets.xcassets */; };
 		952A8ADD2BE95D8B00FCD796 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 952A8ADB2BE95D8B00FCD796 /* LaunchScreen.storyboard */; };
+		955E41412BE965C200004A84 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955E41402BE965C200004A84 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		952A8AD92BE95D8B00FCD796 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		952A8ADC2BE95D8B00FCD796 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		952A8ADE2BE95D8B00FCD796 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		955E41402BE965C200004A84 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				952A8ADB2BE95D8B00FCD796 /* LaunchScreen.storyboard */,
 				952A8ADE2BE95D8B00FCD796 /* Info.plist */,
 				952A8AD62BE95D8900FCD796 /* FloresEnaoColeccionDeJuegos1.xcdatamodeld */,
+				955E41402BE965C200004A84 /* JuegosViewController.swift */,
 			);
 			path = FloresEnaoColeccionDeJuegos1;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				955E41412BE965C200004A84 /* JuegosViewController.swift in Sources */,
 				952A8AD22BE95D8900FCD796 /* ViewController.swift in Sources */,
 				952A8AD82BE95D8900FCD796 /* FloresEnaoColeccionDeJuegos1.xcdatamodeld in Sources */,
 				952A8ACE2BE95D8900FCD796 /* AppDelegate.swift in Sources */,
